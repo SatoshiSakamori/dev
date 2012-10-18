@@ -1,4 +1,3 @@
-dev
+development repo for Satoshi Sakamori
 ===
-
-misc
+This repo will be used as private purpose but not disclose
